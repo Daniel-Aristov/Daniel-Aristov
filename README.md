@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript!
 - 📫 How to reach me: danilka-aristov@mail.ru
 
-###🛠️ Languge and Tools
+### 🛠️ Languge and Tools
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
 ![JavaSrcript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
