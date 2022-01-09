@@ -7,9 +7,11 @@
 
 ### 🛠️ Languge and Tools
 ![JavaSrcript](https://img.shields.io/badge/-JavaScript-101010?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Node.js](https://img.shields.io/badge/-Node.js-101010?style=for-the-badge&logo=node.js)
 ![Html](https://img.shields.io/badge/-HTML-101010?style=for-the-badge&logo=html5)
 ![Css](https://img.shields.io/badge/-CSS-101010?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-101010?style=for-the-badge&logo=Bootstrap)
+![Kotlin](https://img.shields.io/badge/-Kotlin-101010?style=for-the-badge&logo=kotlin)
 ![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-101010?style=for-the-badge&logo=Docker)
 
