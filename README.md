@@ -1,8 +1,8 @@
 ## Hi, I am begginer software engineer! 👋
 
 ### Languge and Tools
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
 ![JavaSrcript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
