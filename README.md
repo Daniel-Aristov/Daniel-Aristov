@@ -1,6 +1,6 @@
 ## Hi, I am begginer software engineer! 👋
 
-## Languge and Tools
+### Languge and Tools
 ![JavaSrcript](https://img.shields.io/badge/-JavaScript-090909)
 <!--
 - 🔭 I’m currently studying in YSTU!
