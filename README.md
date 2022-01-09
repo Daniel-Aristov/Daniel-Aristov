@@ -1,5 +1,7 @@
 ### Hi there 👋
 E-mail: danilka-aristov@mail.ru
+Twitter: https://twitter.com/Daniel_Aristov2
+Instagram: https://www.instagram.com/daniil_aristov/
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
