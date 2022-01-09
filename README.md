@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, my name is Daniil! 👋
+📫 How to reach me:
 - E-mail: danilka-aristov@mail.ru
 - Twitter: https://twitter.com/Daniel_Aristov2
 - Instagram: https://www.instagram.com/daniil_aristov/
