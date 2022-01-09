@@ -13,6 +13,8 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🔗 Connect with me
 [![Vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=Vk)](https://vk.com/daniilka_aristov)
 [![Twitter](https://img.shields.io/badge/-twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/Daniel_Aristov2)
