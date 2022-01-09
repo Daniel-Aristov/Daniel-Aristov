@@ -17,4 +17,5 @@
 [![Twitter](https://img.shields.io/badge/-twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/Daniel_Aristov2)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/daniil_aristov/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/daniil-aristov/)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/DanielAri2002)
 
