@@ -14,7 +14,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-101010?style=for-the-badge&logo=kotlin)
 ![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-101010?style=for-the-badge&logo=Docker)
-(https://aleen42.github.io/badges/src/photoshop.svg)
+![Docker](https://aleen42.github.io/badges/src/photoshop.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Aristov&layout=compact&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)<br>
 <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Aristov&show_icons=true&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)<br>
