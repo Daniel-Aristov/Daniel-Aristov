@@ -1,7 +1,7 @@
 ## Hi, I am begginer software engineer! 👋
 
 ### Languge and Tools
-![JavaSrcript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=appveyor)
+![JavaSrcript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 <!--
 - 🔭 I’m currently studying in YSTU!
 - 🌱 I’m currently learning JavaScript!
