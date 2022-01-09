@@ -1,25 +1,16 @@
-## Hi, I am begginer software engineer! 👋
+## Hi, I am begginer Software Engineer! 👋
 
-### Languge and Tools
+- 🔭 I’m currently studying in YSTU!
+- 🌱 I’m currently learning JavaScript!
+- 📫 How to reach me: danilka-aristov@mail.ru
+
+###🛠️ Languge and Tools
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
 ![JavaSrcript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
-<!--
-- 🔭 I’m currently studying in YSTU!
-- 🌱 I’m currently learning JavaScript!
-- 📫 How to reach me:
-- E-mail: danilka-aristov@mail.ru
-- Twitter: https://twitter.com/Daniel_Aristov2
-- Instagram: https://www.instagram.com/daniil_aristov/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me
+![vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=Vk)
+
