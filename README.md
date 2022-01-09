@@ -8,10 +8,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css)
 ![JavaSrcript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>&logoColor=E9D54D)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=E9D54D)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 
 ### 🔗 Connect with me
-![vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=Vk)
+![Vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=Vk)
+![Twitter](https://img.shields.io/badge/-twitter-090909?style=for-the-badge&logo=Twitter)
 
