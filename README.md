@@ -13,8 +13,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 
 ### 🔗 Connect with me
-![Vkontakte(https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=Vk)](https://vk.com/daniilka_aristov)
-![Twitter(https://img.shields.io/badge/-twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/Daniel_Aristov2)
-![Instagram(https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/daniil_aristov/)
-![Linkedin(https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/daniil-aristov/)
+[![Vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=Vk)](https://vk.com/daniilka_aristov)
+[![Twitter](https://img.shields.io/badge/-twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/Daniel_Aristov2)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/daniil_aristov/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/daniil-aristov/)
 
