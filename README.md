@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently studying in YSTU!
 - 🌱 I’m currently learning JavaScript!
+- ⚡ Fun fact: I like play the guitar!
 - 📫 How to reach me: danilka-aristov@mail.ru
 
 ### 🛠️ Languge and Tools
