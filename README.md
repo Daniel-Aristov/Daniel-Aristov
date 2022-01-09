@@ -5,7 +5,7 @@
 - 📫 How to reach me: danilka-aristov@mail.ru
 
 ### 🛠️ Languge and Tools
-![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html)
+![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=data:https://nublimr.github.io/img/Language/html5.png)
 ![Css](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css)
 ![JavaSrcript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
