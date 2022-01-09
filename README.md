@@ -1,4 +1,5 @@
 ### Hi, my name is Daniil! 👋
+- 🌱 I’m currently learning JavaScript!
 📫 How to reach me:
 - E-mail: danilka-aristov@mail.ru
 - Twitter: https://twitter.com/Daniel_Aristov2
