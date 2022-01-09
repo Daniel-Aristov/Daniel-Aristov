@@ -12,8 +12,8 @@
 ![Css](https://img.shields.io/badge/-CSS-101010?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-101010?style=for-the-badge&logo=Bootstrap)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-101010?style=for-the-badge&logo=kotlin)
-![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=Git)
-![Docker](https://img.shields.io/badge/-Docker-101010?style=for-the-badge&logo=Docker)
+[![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=Git)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/-Docker-101010?style=for-the-badge&logo=Docker)](https://www.docker.com/)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-101010?style=for-the-badge&logo=photoshop)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Aristov&layout=compact&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)<br>
