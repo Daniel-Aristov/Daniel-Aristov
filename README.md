@@ -1,7 +1,11 @@
 ## Hi, I am begginer software engineer! 👋
 
 ### Languge and Tools
+![HTML](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=CSS)
 ![JavaSrcript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Git](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=Git)
+![Docker](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=Docker)
 <!--
 - 🔭 I’m currently studying in YSTU!
 - 🌱 I’m currently learning JavaScript!
