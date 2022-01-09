@@ -1,11 +1,15 @@
-### Hi, my name is Daniil! 👋
+## Hi, I am begginer software engineer! 👋
+
+##Languge and Tools
+![JavaSrcript](https://img.shields.io/badge/-JavaScript-<COLOR>)
+<!--
 - 🔭 I’m currently studying in YSTU!
 - 🌱 I’m currently learning JavaScript!
 - 📫 How to reach me:
 - E-mail: danilka-aristov@mail.ru
 - Twitter: https://twitter.com/Daniel_Aristov2
 - Instagram: https://www.instagram.com/daniil_aristov/
-<!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
