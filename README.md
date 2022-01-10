@@ -24,9 +24,9 @@
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Aristov&layout=compact&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)
 <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Aristov&show_icons=true&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)
 
-<br />
-![alt rank](https://www.codewars.com/users/Daniel_Ari/badges/small) 
-<br/>
+
+![alt rank](https://www.codewars.com/users/Daniel_Ari/badges/large) 
+
 
 ### 💻 ОС
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/ru-ru/windows?r=1)
@@ -35,6 +35,7 @@
 ### 🔗 Connect with me
 [![Vkontakte](https://img.shields.io/badge/-vkontakte-101010?style=for-the-badge&logo=Vk)](https://vk.com/daniilka_aristov)
 [![Twitter](https://img.shields.io/badge/-twitter-101010?style=for-the-badge&logo=Twitter)](https://twitter.com/Daniel_Aristov2)
+[![Telegram](https://img.shields.io/badge/-twitter-101010?style=for-the-badge&logo=Twitter)](https://t.me/daniel_aristov)
 [![Instagram](https://img.shields.io/badge/-Instagram-101010?style=for-the-badge&logo=Instagram)](https://www.instagram.com/daniil_aristov/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-101010?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/daniil-aristov/)
 [![Facebook](https://img.shields.io/badge/-Facebook-101010?style=for-the-badge&logo=Facebook)](https://www.facebook.com/DanielAri2002)
