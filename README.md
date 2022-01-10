@@ -20,6 +20,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-101010?style=for-the-badge&logo=github)](https://github.com/Daniel-Aristov)
 [![Docker](https://img.shields.io/badge/-Docker-101010?style=for-the-badge&logo=Docker)](https://www.docker.com/)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-101010?style=for-the-badge&logo=adobe-photoshop)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft Office-101010?style=for-the-badge&logo=microsoft-office)
 ![Chrome](https://img.shields.io/badge/-Chrome-101010?style=for-the-badge&logo=google-chrome&logoColor=#C7C4B9)
 
 
