@@ -16,10 +16,10 @@
 
 ### 🛠 Tools:
 [![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=Git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/Daniel-Aristov)
+[![GitHub](https://img.shields.io/badge/-GitHub-101010?style=flat&logo=github)](https://github.com/Daniel-Aristov)
 [![Docker](https://img.shields.io/badge/-Docker-101010?style=for-the-badge&logo=Docker)](https://www.docker.com/)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)
+![Photoshop](https://img.shields.io/badge/-Photoshop-101010?style=flat&logo=adobe-photoshop)
+![Chrome](https://img.shields.io/badge/-Chrome-101010?style=flat&logo=google-chrome&logoColor=#C7C4B9)
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Aristov&layout=compact&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)
 <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Aristov&show_icons=true&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)
