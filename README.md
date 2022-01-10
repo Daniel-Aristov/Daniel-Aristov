@@ -21,8 +21,9 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-101010?style=for-the-badge&logo=adobe-photoshop)
 ![Chrome](https://img.shields.io/badge/-Chrome-101010?style=for-the-badge&logo=google-chrome&logoColor=#C7C4B9)
 
+
 <br>
-<table>
+<table style=border:0px>
   <tr>
     <td>
       <img align="right"  src="https://github-readme-stats.vercel.app/api?username=Daniel-Aristov&show_icons=true&theme=dark" alt="Malik's Github stats"/>
@@ -32,7 +33,6 @@
     </td>
   </tr>
 </table>
-<br>
 
 ![alt rank](https://www.codewars.com/users/Daniel_Ari/badges/large) 
 
