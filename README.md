@@ -21,6 +21,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-101010?style=for-the-badge&logo=adobe-photoshop)
 ![Chrome](https://img.shields.io/badge/-Chrome-101010?style=for-the-badge&logo=google-chrome&logoColor=#C7C4B9)
 
+<br>
 <table>
   <tr>
     <td>
@@ -31,10 +32,7 @@
     </td>
   </tr>
 </table>
-
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Aristov&layout=compact&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)
-<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Aristov&show_icons=true&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)
-
+<br>
 
 ![alt rank](https://www.codewars.com/users/Daniel_Ari/badges/large) 
 
