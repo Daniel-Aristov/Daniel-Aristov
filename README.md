@@ -5,16 +5,20 @@
 - ⚡ Fun fact: I like play the guitar!
 - 📫 How to reach me: danilka-aristov@mail.ru
 
-### 🛠️ Languge and Tools
+### 💻 Tech Stack:
 ![JavaSrcript](https://img.shields.io/badge/-JavaScript-101010?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Node.js](https://img.shields.io/badge/-Node.js-101010?style=for-the-badge&logo=node.js)
 ![HTML](https://img.shields.io/badge/-HTML-101010?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-101010?style=for-the-badge&logo=css3)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-101010?style=for-the-badge&logo=Bootstrap)](https://bootstrap-4.ru/)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-101010?style=for-the-badge&logo=kotlin)
+
+### 🛠 Tools:
 [![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=Git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/Daniel-Aristov)
 [![Docker](https://img.shields.io/badge/-Docker-101010?style=for-the-badge&logo=Docker)](https://www.docker.com/)
-![Photoshop](https://img.shields.io/badge/-Photoshop-101010?style=for-the-badge&logo=photoshop)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Aristov&layout=compact&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)<br>
 <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Aristov&show_icons=true&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)<br>
