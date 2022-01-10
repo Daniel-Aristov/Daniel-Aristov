@@ -5,6 +5,7 @@
 - ⚡ Fun fact: I like play the guitar!
 - 📫 How to reach me: danilka-aristov@mail.ru
 
+
 ### 💻 Tech Stack:
 ![JavaSrcript](https://img.shields.io/badge/-JavaScript-101010?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Node.js](https://img.shields.io/badge/-Node.js-101010?style=for-the-badge&logo=node.js)
@@ -20,8 +21,8 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Aristov&layout=compact&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)<br>
-<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Aristov&show_icons=true&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)<br>
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Aristov&layout=compact&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)
+<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Aristov&show_icons=true&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)
 
 ### 💻 ОС
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/ru-ru/windows?r=1)
