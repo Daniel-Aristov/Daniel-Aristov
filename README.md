@@ -24,7 +24,7 @@
 
 
 <br>
-<table style=border:0px>
+<table>
   <tr>
     <td>
       <img align="right"  src="https://github-readme-stats.vercel.app/api?username=Daniel-Aristov&show_icons=true&theme=dark" alt="Malik's Github stats"/>
