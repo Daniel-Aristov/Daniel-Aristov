@@ -24,10 +24,10 @@
 <table>
   <tr>
     <td>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Aristov&layout=compact&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)
+      <img align="right"  src="https://github-readme-stats.vercel.app/api?username=Daniel-Aristov&show_icons=true&theme=dark" alt="Malik's Github stats"/>
     </td>
     <td>
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Aristov&show_icons=true&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)
+      <img height="160em" align="left" alt="Malik's Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Aristov&layout=compact&theme=dark"/>
     </td>
   </tr>
 </table>
