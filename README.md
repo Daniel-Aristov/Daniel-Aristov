@@ -1,5 +1,6 @@
 ## Hi, I am begginer Software Engineer! 👋
-
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daniel-Aristov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
+ 
 - 🔭 I’m currently studying in YSTU!
 - 🌱 I’m currently learning JavaScript!
 - ⚡ Fun fact: I like play the guitar!
