@@ -29,4 +29,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-101010?style=for-the-badge&logo=Instagram)](https://www.instagram.com/daniil_aristov/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-101010?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/daniil-aristov/)
 [![Facebook](https://img.shields.io/badge/-Facebook-101010?style=for-the-badge&logo=Facebook)](https://www.facebook.com/DanielAri2002)
-[![Overflow](https://img.shields.io/badge/-Overflow-101010?style=for-the-badge&logo=Overflow)](https://stackoverflow.com/users/17448230/danielaristov)
+[![Overflow](https://img.shields.io/badge/-Overflow-101010?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/17448230/danielaristov)
