@@ -35,7 +35,7 @@
   </tr>
 </table>
 
-![alt rank](https://www.codewars.com/users/Daniel_Ari/badges/large) 
+[![alt rank](https://www.codewars.com/users/Daniel_Ari/badges/large)](https://www.codewars.com/users/Daniel_Ari) 
 
 
 ### 💻 ОС
