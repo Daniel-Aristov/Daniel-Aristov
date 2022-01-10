@@ -24,6 +24,10 @@
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Aristov&layout=compact&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)
 <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Aristov&show_icons=true&theme=dark)](https://github.com/Daniel-Aristov?tab=repositories)
 
+<br />
+![alt rank](https://www.codewars.com/users/Daniel_Ari/badges/small) 
+<br/>
+
 ### 💻 ОС
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/ru-ru/windows?r=1)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
