@@ -12,8 +12,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-101010?style=for-the-badge&logo=node.js)
 ![HTML](https://img.shields.io/badge/-HTML-101010?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-101010?style=for-the-badge&logo=css3)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-101010?style=for-the-badge&logo=Bootstrap)](https://bootstrap-4.ru/)
-![Kotlin](https://img.shields.io/badge/-Kotlin-101010?style=for-the-badge&logo=kotlin)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-101010?style=for-the-badge&logo=Bootstrap)](https://bootstrap-4.ru/)
+
 
 ### 🛠 Tools:
 [![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=Git)](https://git-scm.com/)
