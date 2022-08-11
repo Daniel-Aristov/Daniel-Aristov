@@ -18,7 +18,7 @@
 [![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=Git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-101010?style=for-the-badge&logo=github)](https://github.com/Daniel-Aristov)
 [![Docker](https://img.shields.io/badge/-Docker-101010?style=for-the-badge&logo=Docker)](https://www.docker.com/)
-![Windows Terminal](https://img.shields.io/badge/-Windows Terminal-101010?style=for-the-badge&logo=windows%20terminal)
+![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-101010?style=for-the-badge&logo=windows%20terminal)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-101010?style=for-the-badge&logo=microsoft-office&logoColor=#fa4b00)
 ![Chrome](https://img.shields.io/badge/-Chrome-101010?style=for-the-badge&logo=google-chrome&logoColor=#C7C4B9)
 
