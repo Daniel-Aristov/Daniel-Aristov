@@ -43,9 +43,9 @@
 
 ### 🖍 Design
 ![Photoshop](https://img.shields.io/badge/-Photoshop-101010?style=for-the-badge&logo=adobe-photoshop)
-[![Adobe XD]([https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)]
-[![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)]
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🔗 Connect with me
 [![Vkontakte](https://img.shields.io/badge/-vkontakte-101010?style=for-the-badge&logo=Vk)](https://vk.com/daniilka_aristov)
