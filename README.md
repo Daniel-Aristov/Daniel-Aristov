@@ -8,8 +8,8 @@
 
 
 ### 💻 Tech Stack:
-![HTML](https://img.shields.io/badge/-HTML-101010?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-101010?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML-101010?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-101010?style=for-the-badge&logo=css3)
 ![JavaSrcript](https://img.shields.io/badge/-JavaScript-101010?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Node.js](https://img.shields.io/badge/-Node.js-101010?style=for-the-badge&logo=node.js)
 
