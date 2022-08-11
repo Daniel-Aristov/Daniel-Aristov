@@ -8,11 +8,10 @@
 
 
 ### 💻 Tech Stack:
-![JavaSrcript](https://img.shields.io/badge/-JavaScript-101010?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Node.js](https://img.shields.io/badge/-Node.js-101010?style=for-the-badge&logo=node.js)
 ![HTML](https://img.shields.io/badge/-HTML-101010?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-101010?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-101010?style=for-the-badge&logo=Bootstrap)
+![JavaSrcript](https://img.shields.io/badge/-JavaScript-101010?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Node.js](https://img.shields.io/badge/-Node.js-101010?style=for-the-badge&logo=node.js)
 
 
 ### 🛠 Tools:
