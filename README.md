@@ -18,7 +18,6 @@
 [![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=Git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-101010?style=for-the-badge&logo=github)](https://github.com/Daniel-Aristov)
 [![Docker](https://img.shields.io/badge/-Docker-101010?style=for-the-badge&logo=Docker)](https://www.docker.com/)
-![Photoshop](https://img.shields.io/badge/-Photoshop-101010?style=for-the-badge&logo=adobe-photoshop)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-101010?style=for-the-badge&logo=microsoft-office&logoColor=#fa4b00)
 ![Chrome](https://img.shields.io/badge/-Chrome-101010?style=for-the-badge&logo=google-chrome&logoColor=#C7C4B9)
 
@@ -41,6 +40,12 @@
 ### 💻 ОС
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/ru-ru/windows?r=1)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+
+### 🖍 Design
+![Photoshop](https://img.shields.io/badge/-Photoshop-101010?style=for-the-badge&logo=adobe-photoshop)
+[![Adobe XD]([https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)]
+[![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)]
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]
 
 ### 🔗 Connect with me
 [![Vkontakte](https://img.shields.io/badge/-vkontakte-101010?style=for-the-badge&logo=Vk)](https://vk.com/daniilka_aristov)
