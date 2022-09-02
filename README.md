@@ -2,7 +2,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daniel-Aristov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
  
 - 🔭 I’m currently studying in YSTU!
-- 🌱 I’m currently learning JavaScript!
+- 🌱 I’m currently learn Programming!
 - ⚡ Fun fact: I like play the guitar!
 - 📫 How to reach me: danilka-aristov@mail.ru
 
