@@ -1,16 +1,20 @@
-## Hi, I am begginer Software Engineer! 👋
+## Hi, I am Software Engineer! 👋
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daniel-Aristov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
- 
+
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300">
+<br>
+
+- 🌱 I’m currently learn Frontend Development!
 - 🔭 I’m currently studying in YSTU!
-- 🌱 I’m currently learn Programming!
-- ⚡ Fun fact: I like play the guitar!
 - 📫 How to reach me: danilka-aristov@mail.ru
 
 
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/-HTML-101010?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-101010?style=for-the-badge&logo=css3)
+![JAVASCRIPT](https://img.shields.io/badge/-javascript-101010?style=for-the-badge&logo=javascript)
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="800">
 
 ### 🛠 Tools:
 [![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=Git)](https://git-scm.com/)
@@ -41,11 +45,10 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 ### 🖍 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Premier Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ### 👩‍💻 IDE
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
