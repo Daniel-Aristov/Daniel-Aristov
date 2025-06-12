@@ -4,8 +4,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300">
 <br>
 
-- 🌱 I’m currently learn Frontend Development!
-- 🔭 I’m currently studying in YSTU!
+- 🌱 I’m currently working fullstack developer!
+- 🔭 I graduated from YSTU with a Bachelor's degree in Software Engineering!
 - 📫 How to reach me: danilka-aristov@mail.ru
 
 
