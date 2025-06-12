@@ -26,6 +26,7 @@
 ### 🛠 Tools:
 [![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=Git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-101010?style=for-the-badge&logo=github)](https://github.com/Daniel-Aristov)
+[![GitLab](https://img.shields.io/badge/-GitLab-101010?style=for-the-badge&logo=gitlab)](https://gitlab.com/danilkaaristov2002)
 [![Docker](https://img.shields.io/badge/-Docker-101010?style=for-the-badge&logo=Docker)](https://www.docker.com/)
 
 
@@ -51,16 +52,7 @@
 ### 🖍 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-
-### 👩‍💻 IDE
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Sublime_Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### 🔗 Connect with me
 [![Vkontakte](https://img.shields.io/badge/-vkontakte-101010?style=for-the-badge&logo=Vk)](https://vk.com/daniilka_aristov)
